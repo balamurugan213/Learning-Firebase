@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "698449544809",
-    "firebase_url": "https://projecrcurd.firebaseio.com",
-    "project_id": "projecrcurd",
-    "storage_bucket": "projecrcurd.appspot.com"
+    "project_number": "407435335945",
+    "firebase_url": "https://learning-firebase-c6f99.firebaseio.com",
+    "project_id": "learning-firebase-c6f99",
+    "storage_bucket": "learning-firebase-c6f99.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:698449544809:android:e253d0d2302a53166744f8",
+        "mobilesdk_app_id": "1:407435335945:android:23f4e88f795969e87e1bd8",
         "android_client_info": {
           "package_name": "com.curd.firebase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "698449544809-u29jlh7l65jlnnqe2jq6kjubjscqr9d0.apps.googleusercontent.com",
+          "client_id": "407435335945-t4ppa4tr0f9u7qh52qqk37ii5oreafrj.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC8aJDq3aWZtWNXgujIIxmam9uL6YdOhBI"
+          "current_key": "AIzaSyDTH2shB0wSGEzWY8nj9lcOwwBzK1gz_Zk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "698449544809-u29jlh7l65jlnnqe2jq6kjubjscqr9d0.apps.googleusercontent.com",
+              "client_id": "407435335945-t4ppa4tr0f9u7qh52qqk37ii5oreafrj.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
